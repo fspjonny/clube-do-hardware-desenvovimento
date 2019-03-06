@@ -1,2 +1,2 @@
 # clube-do-hardware-desenvovimento
-Repositório de ajuda aos foristas com dúvidas no fórum de desenvolvimento do Clube do Hardware
+Este repositório é para postar os arquivos usados na juda que dei aos foristas na resolução de suas dúvidas postadas no fórum de Programação e Desenvolvimento do Clube do Hardware.
